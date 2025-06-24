@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: deepvallay/kubernetes-cicd:202506240941
+          image: deepvallay/kubernetes-cicd:202506241011
           ports:
             - containerPort: 80
